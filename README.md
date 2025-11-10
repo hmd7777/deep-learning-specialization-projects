@@ -24,3 +24,48 @@ Each folder corresponds to a course or specific project within the specializatio
 
 ## 🧩 Directory Structure
 
+1_cat-vs-noncat/
+2_regularization-optimization/
+4_cnn-sign-language/
+5_sequence-models/
+├── 5d_attention_model/
+└── 5e_Transformers_Architecture_TensorFlow/
+
+
+---
+
+## 🧠 Concepts Demonstrated
+
+- Neural Network implementation from scratch (NumPy)
+- Weight initialization, dropout, batch normalization
+- Convolutional networks and transfer learning
+- Recurrent neural networks, GRUs, LSTMs
+- Sequence-to-sequence and attention models
+- Model tuning, optimization, and evaluation
+
+---
+
+## 🧰 Technologies Used
+
+- **Python 3.11**
+- **NumPy**, **TensorFlow**, **Keras**, **matplotlib**
+- **Jupyter Notebook**
+
+---
+
+## ⚠️ Notes
+
+- The datasets used in these assignments are provided by **DeepLearning.AI** and are **not redistributed** here.  
+- All implementations follow the course structure but include my own completed code.
+
+---
+
+## ✍️ Author
+
+**Hadi Dabbouk**   
+📧 dboukhadi7@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/hadi-dabbouk-485743271/) | [GitHub](https://github.com/hmd7777)
+
+---
+
+> “Learning is not about memorizing equations — it’s about understanding how intelligence emerges from them.”
